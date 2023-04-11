@@ -2,6 +2,11 @@
 
 <p align="center"> <img src="supermarket_illustration.jpg" width="250"> </p>
 
+
+## Video presentation
+
+[Walmart - Video presentation](https://share.vidyard.com/watch/hb2kUTCm27EvdrnkZr68Qu?second=57)
+
 ## Context 
 
 Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores. Walmart's marketing service would like to have a machine learning model able to estimate the weekly sales in their stores. Such a model would help them understand better how the sales are influenced by economic indicators, and might be used to plan future marketing campaigns.
